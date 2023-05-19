@@ -25,6 +25,7 @@ const Hero = () => {
           </p>
         </div>
       </div>
+      <br />
 
       <ComputersCanvas />
 

@@ -38,15 +38,19 @@ export const navLinks = [
     id: "contact",
     title: "Contact",
   },
+  {
+    id: "cv",
+    title: "Resume",
+  },
 ];
 
 const services = [
   {
-    title: "Web Developer",
+    title: "Salesforce Developer",
     icon: web,
   },
   {
-    title: "React Native Developer",
+    title: "React Js Developer",
     icon: mobile,
   },
   {
