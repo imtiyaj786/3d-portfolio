@@ -27,8 +27,8 @@ const App = () => {
         <Works />
         <Feedbacks />
         <div>
-          <StarsCanvas />
           <Contact />
+          <StarsCanvas />
         </div>
       </BrowserRouter>
     </>
