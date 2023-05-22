@@ -23,6 +23,8 @@ import {
   jobit,
   tripguide,
   threejs,
+  salesforce,
+  cloud,
 } from "../assets";
 
 export const navLinks = [
@@ -64,6 +66,10 @@ const services = [
 ];
 
 const technologies = [
+  {
+    name: "Salesforce",
+    icon: salesforce,
+  },
   {
     name: "HTML 5",
     icon: html,
@@ -163,7 +169,20 @@ const experiences = [
     company_name: "Meta",
     icon: meta,
     iconBg: "#E6DEDD",
-    date: "Jan 2023 - Present",
+    date: "Jan 2023 - Feb 2023",
+    points: [
+      "Developing and maintaining web applications using React.js and other related technologies.",
+      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+      "Implementing responsive design and ensuring cross-browser compatibility.",
+      "Participating in code reviews and providing constructive feedback to other developers.",
+    ],
+  },
+  {
+    title: "Salesforce Developer",
+    company_name: "CloudCertitude",
+    icon: cloud,
+    iconBg: "#383E56",
+    date: "January 2022 - Present",
     points: [
       "Developing and maintaining web applications using React.js and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
