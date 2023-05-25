@@ -25,6 +25,8 @@ import {
   threejs,
   salesforce,
   cloud,
+  netflixClone,
+  googleClone,
 } from "../assets";
 
 export const navLinks = [
@@ -221,20 +223,20 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Car Rent",
+    name: "YouTube APIs",
     description:
       "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
     tags: [
       {
-        name: "react",
+        name: "LWC",
         color: "blue-text-gradient",
       },
       {
-        name: "mongodb",
+        name: "Apex",
         color: "green-text-gradient",
       },
       {
-        name: "tailwind",
+        name: "Youtube api",
         color: "pink-text-gradient",
       },
     ],
@@ -242,46 +244,50 @@ const projects = [
     source_code_link: "https://github.com/",
   },
   {
-    name: "Job IT",
+    name: "Netflix Clone",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "Fullstack Netflix Clone in this A user can register and login through valid email and password and also login through their Gmail or gitHub. After login user can play Movies and add and remove movies in fev section. For store movies I am using MongoDB as Database.",
     tags: [
       {
-        name: "react",
+        name: "ReactJs",
         color: "blue-text-gradient",
       },
       {
-        name: "restapi",
+        name: "NextJs",
         color: "green-text-gradient",
       },
       {
-        name: "scss",
+        name: "TailwindCss",
         color: "pink-text-gradient",
       },
+      {
+        name: "Prisma & MongoDB",
+        color: "green-text-gradient",
+      },
     ],
-    image: jobit,
-    source_code_link: "https://github.com/",
+    image: netflixClone,
+    source_code_link: "https://github.com/imtiyaj786/Netflix-Clone",
   },
   {
-    name: "Trip Guide",
+    name: "Google Clone",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "A Google Search clone which is created by using Next JS and tailwind CSS. In this I am using google search api to show search results is All and Images views.",
     tags: [
       {
-        name: "nextjs",
+        name: "ReactJs",
         color: "blue-text-gradient",
       },
       {
-        name: "supabase",
+        name: "NextJs",
         color: "green-text-gradient",
       },
       {
-        name: "css",
+        name: "TailwindCss",
         color: "pink-text-gradient",
       },
     ],
-    image: tripguide,
-    source_code_link: "https://github.com/",
+    image: googleClone,
+    source_code_link: "https://github.com/imtiyaj786/google-clone-v2",
   },
 ];
 

@@ -32,6 +32,9 @@ import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 
+import netflixClone from "./clonenetflix.png";
+import googleClone from "./googleClone.png";
+
 export {
   logo,
   backend,
@@ -63,4 +66,6 @@ export {
   tripguide,
   salesforce,
   cloud,
+  netflixClone,
+  googleClone,
 };
