@@ -27,16 +27,16 @@ const Contact = () => {
     setLoading(true);
     emailJs
       .send(
-        process.env.EMAILJS_SERVICE_ID,
-        process.env.EMAILJS_TEMPLATE_ID,
+        import.meta.env.EMAILJS_SERVICE_ID,
+        import.meta.env.EMAILJS_TEMPLATE_ID,
         {
           from_name: form.name,
           to_name: "Imtiyaj Alam",
           from_email: form.email,
-          to_email: process.env.MY_EMAIL,
+          to_email: import.meta.env.REACT_APP_MY_EMAIL,
           message: form.message,
         },
-        process.env.EMAILJS_PUBLIC_KEY
+        import.meta.env.EMAILJS_PUBLIC_KEY
       )
       .then(
         () => {
