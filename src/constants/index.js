@@ -27,6 +27,11 @@ import {
   cloud,
   netflixClone,
   googleClone,
+  CustomPath,
+  EventBooking,
+  GoogleMap,
+  PostOffice,
+  YouTube,
 } from "../assets";
 
 export const navLinks = [
@@ -223,27 +228,6 @@ const testimonials = [
 
 const projects = [
   {
-    name: "YouTube APIs",
-    description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
-    tags: [
-      {
-        name: "LWC",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "Apex",
-        color: "green-text-gradient",
-      },
-      {
-        name: "Youtube api",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: carrent,
-    source_code_link: "https://github.com/",
-  },
-  {
     name: "Netflix Clone",
     description:
       "Fullstack Netflix Clone in this A user can register and login through valid email and password and also login through their Gmail or gitHub. After login user can play Movies and add and remove movies in fev section. For store movies I am using MongoDB as Database.",
@@ -288,6 +272,111 @@ const projects = [
     ],
     image: googleClone,
     source_code_link: "https://github.com/imtiyaj786/google-clone-v2",
+  },
+  {
+    name: "Event Booking",
+    description:
+      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+    tags: [
+      {
+        name: "LWC",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "Apex",
+        color: "green-text-gradient",
+      },
+      {
+        name: "Youtube api",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: EventBooking,
+    source_code_link: "https://github.com/",
+  },
+  {
+    name: "Google Map Marker",
+    description:
+      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+    tags: [
+      {
+        name: "LWC",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "Apex",
+        color: "green-text-gradient",
+      },
+      {
+        name: "Youtube api",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: GoogleMap,
+    source_code_link: "https://github.com/",
+  },
+  {
+    name: "Custom Path",
+    description:
+      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+    tags: [
+      {
+        name: "LWC",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "Apex",
+        color: "green-text-gradient",
+      },
+      {
+        name: "Youtube api",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: CustomPath,
+    source_code_link: "https://github.com/",
+  },
+  {
+    name: "YouTube APIs",
+    description:
+      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+    tags: [
+      {
+        name: "LWC",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "Apex",
+        color: "green-text-gradient",
+      },
+      {
+        name: "Youtube api",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: YouTube,
+    source_code_link: "https://github.com/",
+  },
+  {
+    name: "PostOffice APIs",
+    description:
+      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+    tags: [
+      {
+        name: "LWC",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "Apex",
+        color: "green-text-gradient",
+      },
+      {
+        name: "Youtube api",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: PostOffice,
+    source_code_link: "https://github.com/",
   },
 ];
 

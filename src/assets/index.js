@@ -34,6 +34,11 @@ import tripguide from "./tripguide.png";
 
 import netflixClone from "./clonenetflix.png";
 import googleClone from "./googleClone.png";
+import CustomPath from "./CustomPath.png";
+import EventBooking from "./EventBooking.png";
+import GoogleMap from "./GoogleMap.png";
+import PostOffice from "./postOffice.png";
+import YouTube from "./youTube.png";
 
 export {
   logo,
@@ -68,4 +73,9 @@ export {
   cloud,
   netflixClone,
   googleClone,
+  CustomPath,
+  EventBooking,
+  GoogleMap,
+  PostOffice,
+  YouTube,
 };
