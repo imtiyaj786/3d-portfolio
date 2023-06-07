@@ -63,7 +63,7 @@ const services = [
     icon: mobile,
   },
   {
-    title: "Backend Developer",
+    title: "Node JS Developer",
     icon: backend,
   },
   {
@@ -133,6 +133,34 @@ const technologies = [
 
 const experiences = [
   {
+    title: "Salesforce Developer Trainee",
+    company_name: "CloudCertitude",
+    icon: cloud,
+    iconBg: "#383E56",
+    date: "January 2022 - June 2022",
+    points: [
+      "Triggers · Apex Programming · Asynchronous Apex · Public Site · Visual Force · Test Classes.",
+      "Salesforce Lightning Design · Aura Components · Lightning Web Components · Salesforce Administration.",
+      "Salesforce Flows · Metadata API · REST APIs · SOAP APIs · Tooling Api · SOQL · SOSL.",
+      "Salesforce Sales Cloud · Salesforce Service Cloud · Salesforce Experience Cloud · Salesforce.com.",
+    ],
+  },
+  {
+    title: "Salesforce Developer",
+    company_name: "CloudCertitude",
+    icon: cloud,
+    iconBg: "#383E56",
+    date: "July 2022 - Present",
+    points: [
+      "Designed & developed VisualForce , Aura, LWC, Flows and Proficient in designing of Custom objects, Custom fields, Page layouts, Custom Tabs, Custom Application, Validation Rules, Approval processes, Sharing Rules.",
+      "Developed Apex Classes, Controller Classes, Batch Apex, Apex Scheduler and Apex Triggers for various functional needs in the application and creating Lightning Apps, Lightning Design System, Lightning App Builder.",
+      "Have worked on Salesforce integration with REST APIs like Razorpay , Facebook , Google drive, One drive, WhatsApp integration based on project requirement.",
+      "Implementing responsive design and ensuring cross-browser compatibility.",
+      "Participating in code reviews and providing constructive feedback to other developers.",
+    ],
+  },
+  /*
+  {
     title: "React.js Developer",
     company_name: "Starbucks",
     icon: starbucks,
@@ -184,19 +212,7 @@ const experiences = [
       "Participating in code reviews and providing constructive feedback to other developers.",
     ],
   },
-  {
-    title: "Salesforce Developer",
-    company_name: "CloudCertitude",
-    icon: cloud,
-    iconBg: "#383E56",
-    date: "January 2022 - Present",
-    points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
-    ],
-  },
+  */
 ];
 
 const testimonials = [
@@ -287,7 +303,7 @@ const projects = [
         color: "green-text-gradient",
       },
       {
-        name: "Youtube api",
+        name: "Calendar JS",
         color: "pink-text-gradient",
       },
     ],
@@ -308,7 +324,7 @@ const projects = [
         color: "green-text-gradient",
       },
       {
-        name: "Youtube api",
+        name: "Geocoding APIs",
         color: "pink-text-gradient",
       },
     ],
@@ -329,7 +345,7 @@ const projects = [
         color: "green-text-gradient",
       },
       {
-        name: "Youtube api",
+        name: "Trigger",
         color: "pink-text-gradient",
       },
     ],
@@ -350,7 +366,7 @@ const projects = [
         color: "green-text-gradient",
       },
       {
-        name: "Youtube api",
+        name: "Youtube APIs",
         color: "pink-text-gradient",
       },
     ],
@@ -371,7 +387,7 @@ const projects = [
         color: "green-text-gradient",
       },
       {
-        name: "Youtube api",
+        name: "Post Office APIs",
         color: "pink-text-gradient",
       },
     ],
