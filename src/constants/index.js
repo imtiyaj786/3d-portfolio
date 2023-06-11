@@ -246,7 +246,7 @@ const projects = [
   {
     name: "Netflix Clone",
     description:
-      "Fullstack Netflix Clone in this A user can register and login through valid email and password and also login through their Gmail or gitHub. After login user can play Movies and add and remove movies in fev section. For store movies I am using MongoDB as Database.",
+      "Fullstack Netflix Clone, A User can register and login through valid email and password and also login through their Gmail or gitHub. Play Movies, Add, Remove movies in fev section. For store movies I'm Using MongoDB.",
     tags: [
       {
         name: "ReactJs",
@@ -257,13 +257,13 @@ const projects = [
         color: "green-text-gradient",
       },
       {
-        name: "TailwindCss",
+        name: "Prisma & MongoDB",
         color: "pink-text-gradient",
       },
-      {
-        name: "Prisma & MongoDB",
-        color: "green-text-gradient",
-      },
+      // {
+      //   name: "Prisma & MongoDB",
+      //   color: "green-text-gradient",
+      // },
     ],
     image: netflixClone,
     source_code_link: "https://github.com/imtiyaj786/Netflix-Clone",
@@ -271,7 +271,7 @@ const projects = [
   {
     name: "Google Clone",
     description:
-      "A Google Search clone which is created by using Next JS and tailwind CSS. In this I am using google search api to show search results is All and Images views.",
+      "A Google Search clone which is created by using Next JS and tailwind CSS. In this I am using google search api to show search results. User can see result is All and Images views both in any device.",
     tags: [
       {
         name: "ReactJs",
@@ -292,18 +292,18 @@ const projects = [
   {
     name: "Event Booking",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "Seat booking is a Client project for booking Events through salesforce. User can book any events and all available and booked seat are showing with their price, User can drag drop and resized event and Pay amount through Razorpay Payment get way.",
     tags: [
       {
         name: "LWC",
         color: "blue-text-gradient",
       },
       {
-        name: "Apex",
+        name: "Apex Class",
         color: "green-text-gradient",
       },
       {
-        name: "Calendar JS",
+        name: "FullCalendar JS",
         color: "pink-text-gradient",
       },
     ],
@@ -313,7 +313,7 @@ const projects = [
   {
     name: "Google Map Marker",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "A Google Map is used to see your company all employee address location with some details like phone number, You just need to select that checkbox which employee address you want to see.",
     tags: [
       {
         name: "LWC",
@@ -334,7 +334,7 @@ const projects = [
   {
     name: "Custom Path",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "Custom Path is developed in Lightning web component, Using this just edit your page layout and drag this component in any Objects and its working same as salesforce standard path with some Extra Features.",
     tags: [
       {
         name: "LWC",
@@ -355,7 +355,7 @@ const projects = [
   {
     name: "YouTube APIs",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "A YouTube APIs app is used to play and watch any youtube videos in your Salesforce Org it's self, And In this app you can search and videos any results is coming with the help of YouTube APIs.",
     tags: [
       {
         name: "LWC",
@@ -376,7 +376,7 @@ const projects = [
   {
     name: "PostOffice APIs",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "This PostOffice app is used for getting any Post Office all details in all over the India, To find all the details You can search with the help of PinCode or Area Name and all the records will shown below.",
     tags: [
       {
         name: "LWC",
