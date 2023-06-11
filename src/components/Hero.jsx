@@ -2,6 +2,7 @@ import { motion } from "framer-motion";
 
 import { styles } from "../styles";
 import { ComputersCanvas } from "./canvas";
+import { Resume } from "./canvas";
 
 const Hero = () => {
   return (
@@ -18,15 +19,16 @@ const Hero = () => {
           <h1 className={`${styles.heroHeadText} text-white`}>
             Hi, I am <span className="text-[#915EFF]">Imtiyaj</span>
           </h1>
+          {/* <Resume /> */}
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
             I develop Salesforce Custom and Standard Object,
             <br className="sm:block hidden" />
-            and web applications
+            and web applications.
           </p>
         </div>
       </div>
 
-      {/*  <ComputersCanvas /> */}
+      <ComputersCanvas />
 
       <div className="absolute xs:bottom-10 bottom-32 w-full flex justify-center items-center">
         <a href="#about">
