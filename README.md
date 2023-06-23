@@ -43,8 +43,8 @@ To learn Three Js, check out the [Three Js Documentation](https://threejs.org/do
 ## Author
 
 <p align="center">
-  <a href="https://github.com/imtiyaj786"><img src="https://img.shields.io/badge/Author-Imtiyaj%20Alam-blueviolet?style=flat-square"></a>
-  <a href="https://linkedin.com/in/imtiyaj786"><img src="https://img.shields.io/badge/LinkedIn-Imtiyaj%20Alam-blue?style=flat-square"></a>
+  <a href="https://github.com/imtiyaj786"><img src="https://img.shields.io/badge/Author-Md%20Imtiyaj%20Alam-blueviolet?style=flat-square"></a>
+  <a href="https://linkedin.com/in/imtiyaj786"><img src="https://img.shields.io/badge/LinkedIn-Md%20Imtiyaj%20Alam-blue?style=flat-square"></a>
 </p>
 
 ## 🤝 Contributing
