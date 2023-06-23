@@ -21,14 +21,15 @@ const Hero = () => {
           </h1>
           {/* <Resume /> */}
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
-            I develop Salesforce Custom and Standard Object,
+            I am designing, customizing, developing, and maintaining
+            applications within the Salesforce platform and web applications
             <br className="sm:block hidden" />
-            and web applications.
+            to meet business requirements.
           </p>
         </div>
       </div>
-
-      <ComputersCanvas />
+      {/* <br />
+      <ComputersCanvas /> */}
 
       <div className="absolute xs:bottom-10 bottom-32 w-full flex justify-center items-center">
         <a href="#about">
