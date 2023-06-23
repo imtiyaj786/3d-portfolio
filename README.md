@@ -7,10 +7,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Learn More
 
-To learn React, check out the [React documentation](https://reactjs.org/)
-To learn Tailwind Css, check out the [Tailwind Documentation](https://tailwindcss.com/docs/installation)
-To learn Next Js, check out the [Next Js Documentation](https://nextjs.org/docs)
-To learn Three Js, check out the [Three Js Documentation](https://threejs.org/docs/index.html#manual/en/introduction/Creating-a-scene)
+- To learn React, check out the [React documentation](https://reactjs.org/)
+- To learn Tailwind Css, check out the [Tailwind Documentation](https://tailwindcss.com/docs/installation)
+- To learn Next Js, check out the [Next Js Documentation](https://nextjs.org/docs)
+- To learn Three Js, check out the [Three Js Documentation](https://threejs.org/docs/index.html#manual/en/introduction/Creating-a-scene)
 
 # Personal- 3D Portfolio
 
