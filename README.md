@@ -16,7 +16,13 @@ To learn Three Js, check out the [Three Js Documentation](https://threejs.org/do
 
 > This is My personal portfolio 3D website.
 
-![Portfolio UI]()
+![3dportfolio](https://github.com/imtiyaj786/3d-portfolio/assets/55544765/d679c8e4-9687-41fa-9899-610ea2dda8ef)
+
+![3doverview](https://github.com/imtiyaj786/3d-portfolio/assets/55544765/1044078b-240f-4565-b3b7-35d1795cfa45)
+
+![3dproject](https://github.com/imtiyaj786/3d-portfolio/assets/55544765/a211d48c-6e15-4fda-abc5-aa104dfa0a28)
+
+![3dcontact](https://github.com/imtiyaj786/3d-portfolio/assets/55544765/640096a3-503c-482b-aa29-bbdd85d0c08f)
 
 
 ## Steps to follow:
