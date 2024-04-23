@@ -126,11 +126,11 @@ const technologies = [
 
 const experiences = [
   {
-    title: "Salesforce Developer Trainee",
+    title: "Salesforce Developer",
     company_name: "CloudCertitude",
     icon: cloud,
     iconBg: "#383E56",
-    date: "January 2022 - June 2022",
+    date: "January 2022 - July 2023",
     points: [
       "Triggers · Apex Programming · Asynchronous Apex · Public Site · Visual Force · Test Classes.",
       "Salesforce Lightning Design · Aura Components · Lightning Web Components · Salesforce Administration.",
@@ -140,10 +140,10 @@ const experiences = [
   },
   {
     title: "Salesforce Developer",
-    company_name: "CloudCertitude",
+    company_name: "360 Degree Cloud Pvt Ltd",
     icon: cloud,
     iconBg: "#383E56",
-    date: "July 2022 - Present",
+    date: "Aug 2023 - Present",
     points: [
       "Designed & developed VisualForce , Aura, LWC, Flows and Proficient in designing of Custom objects, Custom fields, Page layouts, Custom Tabs, Custom Application, Validation Rules, Approval processes, Sharing Rules.",
       "Developed Apex Classes, Controller Classes, Batch Apex, Apex Scheduler and Apex Triggers for various functional needs in the application and creating Lightning Apps, Lightning Design System, Lightning App Builder.",
