@@ -18,7 +18,7 @@ import {
   threejs,
   salesforce,
   cloud,
-  Cloud360Degree,
+  CloudDegree,
   netflixClone,
   googleClone,
   CustomPath,

@@ -27,7 +27,7 @@ import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
 import cloud from "./company/cc.png";
-import Cloud360Degree from "./company/Cloud360Degree.png";
+import CloudDegree from "./company/CloudDegree.png";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
