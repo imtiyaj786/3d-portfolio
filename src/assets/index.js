@@ -72,6 +72,7 @@ export {
   tripguide,
   salesforce,
   cloud,
+  CloudDegree,
   netflixClone,
   googleClone,
   CustomPath,
