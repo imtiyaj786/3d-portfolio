@@ -129,7 +129,7 @@ const experiences = [
   {
     title: "Salesforce Developer",
     company_name: "360 Degree Cloud Technologies Pvt Ltd",
-    icon: Cloud360Degree,
+    icon: CloudDegree,
     iconBg: "#383E56",
     date: "Aug 2023 - Present",
     points: [
