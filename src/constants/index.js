@@ -18,6 +18,7 @@ import {
   threejs,
   salesforce,
   cloud,
+  Cloud360Degree,
   netflixClone,
   googleClone,
   CustomPath,
@@ -127,21 +128,8 @@ const technologies = [
 const experiences = [
   {
     title: "Salesforce Developer",
-    company_name: "CloudCertitude",
-    icon: cloud,
-    iconBg: "#383E56",
-    date: "January 2022 - July 2023",
-    points: [
-      "Triggers · Apex Programming · Asynchronous Apex · Public Site · Visual Force · Test Classes.",
-      "Salesforce Lightning Design · Aura Components · Lightning Web Components · Salesforce Administration.",
-      "Salesforce Flows · Metadata API · REST APIs · SOAP APIs · Tooling Api · SOQL · SOSL.",
-      "Salesforce Sales Cloud · Salesforce Service Cloud · Salesforce Experience Cloud · Salesforce.com.",
-    ],
-  },
-  {
-    title: "Salesforce Developer",
-    company_name: "360 Degree Cloud Pvt Ltd",
-    icon: cloud,
+    company_name: "360 Degree Cloud Technologies Pvt Ltd",
+    icon: Cloud360Degree,
     iconBg: "#383E56",
     date: "Aug 2023 - Present",
     points: [
@@ -150,6 +138,19 @@ const experiences = [
       "Have worked on Salesforce integration with REST APIs like Razorpay , Facebook , Google drive, One drive, WhatsApp integration based on project requirement.",
       "Implementing responsive design and ensuring cross-browser compatibility.",
       "Participating in code reviews and providing constructive feedback to other developers.",
+    ],
+  },
+  {
+    title: "Salesforce Developer",
+    company_name: "CloudCertitude Pvt Ltd",
+    icon: cloud,
+    iconBg: "#383E56",
+    date: "January 2022 - July 2023",
+    points: [
+      "Triggers · Apex Programming · Asynchronous Apex · Public Site · Visual Force · Test Classes.",
+      "Salesforce Lightning Design · Aura Components · Lightning Web Components · Salesforce Administration.",
+      "Salesforce Flows · Metadata API · REST APIs · SOAP APIs · Tooling Api · SOQL · SOSL.",
+      "Salesforce Sales Cloud · Salesforce Service Cloud · Salesforce Experience Cloud · Salesforce.com.",
     ],
   },
 ];
