@@ -1,7 +1,6 @@
 import { Suspense, useEffect, useState } from "react";
 import { Canvas } from "@react-three/fiber";
 import { OrbitControls, Preload, useGLTF } from "@react-three/drei";
-
 import CanvasLoader from "../Loader";
 
 const Computers = ({ isMobile }) => {
@@ -41,8 +40,12 @@ const ComputersCanvas = () => {
 
     // Define a callback function to handle changes to the media query
     const handleMediaQueryChange = (event) => {
-      setIsMobile(event.matches);
+      setIsMobile(event?.matches);
     };
+    // handle screen size change
+    // const handleMediaQueryChange = (event: MediaQueryListEvent) => {
+    //   setIsMobile(event?.matches);
+    // };
 
     // Add the callback function as a listener for changes to the media query
     mediaQuery.addEventListener("change", handleMediaQueryChange);
