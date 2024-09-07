@@ -146,15 +146,17 @@ const experiences = [
   },
   {
     title: "Salesforce Developer",
-    company_name: "CloudCertitude Pvt Ltd",
+    company_name: "Cloud Certitude Pvt Ltd",
     icon: cloud,
     iconBg: "#383E56",
     date: "January 2022 - July 2023",
     points: [
-      "Triggers · Apex Programming · Asynchronous Apex · Public Site · Visual Force · Test Classes.",
-      "Salesforce Lightning Design · Aura Components · Lightning Web Components · Salesforce Administration.",
-      "Salesforce Flows · Metadata API · REST APIs · SOAP APIs · Tooling Api · SOQL · SOSL.",
-      "Salesforce Sales Cloud · Salesforce Service Cloud · Salesforce Experience Cloud · Salesforce.com.",
+      "Exprience in creating Lightning App combining Lightning Design System, Lightning App Builder, Lightning Component.",
+      "Proficient in designing of Custom object, Custom fields, Page layout, Custom tab, Custom application.",
+      "Good knowledge of technical and functional aspects on demand CRM package salesforce.com Setup, Configuration, Customization, Administration, Data Migration.",
+      "Worked on Triggers · Apex Programming · Sync and Asynchronous Apex · Public Site · Visual Force · Test Classes.",
+      "Aura Components · Lightning Web Components · Salesforce Administration · Salesforce Flows · Metadata API.",
+      "REST APIs · SOAP APIs · Tooling Api · SOQL · SOSL · Salesforce Sales Cloud · Salesforce Service Cloud · Salesforce Experience Cloud · Salesforce.com.",
     ],
   },
 ];
@@ -162,7 +164,7 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
+      "I thought it was impossible to make a website as beautiful as our product, but Imiyaj proved me wrong.",
     name: "Sara Lee",
     designation: "CFO",
     company: "Acme Co",
@@ -170,7 +172,7 @@ const testimonials = [
   },
   {
     testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Rick does.",
+      "I've never met a web developer who truly cares about their clients' success like Imtiyaj does.",
     name: "Chris Brown",
     designation: "COO",
     company: "DEF Corp",
@@ -178,7 +180,7 @@ const testimonials = [
   },
   {
     testimonial:
-      "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
+      "After Imtiyaj optimized our website, our traffic increased by 50%. We can't thank them enough!",
     name: "Lisa Wang",
     designation: "CTO",
     company: "456 Enterprises",
