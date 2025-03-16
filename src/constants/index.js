@@ -164,27 +164,27 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Imiyaj proved me wrong.",
-    name: "Sara Lee",
-    designation: "CFO",
-    company: "Acme Co",
-    image: "https://randomuser.me/api/portraits/women/4.jpg",
+      "Their technical skills, he is a great team player who actively collaborates with stakeholders and cross-functional teams. Their problem-solving mindset and proactive approach make them an asset to any organization.",
+    name: "Bharat Motwani",
+    designation: "Sr Salesforce Developer",
+    company: "Cloud Certitude Pvt Ltd.",
+    image: "https://randomuser.me/api/portraits/men/1.jpg",
   },
   {
     testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Imtiyaj does.",
-    name: "Chris Brown",
-    designation: "COO",
-    company: "DEF Corp",
-    image: "https://randomuser.me/api/portraits/men/5.jpg",
+      "He possesses strong knowledge of Salesforce and consistently demonstrates a positive attitude. He is highly adaptable, eager to learn, and committed to delivering high-quality results. His proactive approach and excellent problem-solving skills make him a valuable asset to any team.",
+    name: "Arun Keshari",
+    designation: "Sr Salesforce Developer",
+    company: "Coforge",
+    image: "https://randomuser.me/api/portraits/men/4.jpg",
   },
   {
     testimonial:
-      "After Imtiyaj optimized our website, our traffic increased by 50%. We can't thank them enough!",
-    name: "Lisa Wang",
-    designation: "CTO",
-    company: "456 Enterprises",
-    image: "https://randomuser.me/api/portraits/women/6.jpg",
+      "I’ve had the pleasure of knowing Md Imtiyaj Alam as a highly skilled Salesforce Developer. Their expertise in developing and customizing Salesforce solutions is impressive, and they consistently deliver results that exceed expectations.",
+    name: "Raj Gupta",
+    designation: "Sr Software Enginner",
+    company: "Tech Mahindra",
+    image: "https://randomuser.me/api/portraits/men/6.jpg",
   },
 ];
 

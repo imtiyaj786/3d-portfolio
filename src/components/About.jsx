@@ -35,7 +35,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
-        {`I'm a skilled Salesforce 3X Certified developer with 2.5+ Years of hands-on experience in designing, customizing and implementing salesforce solution. Proficient ynchronous & Asynchronous Apex, LWC, Aura, Visual Force, Custom objects / fields, Page layouts, Custom Tabs / Application, Custom Setting, Lightning App Builder, Flows, Metadata Api, Rest / Soap APIs, JavaScript and expertise in frameworks like React, Next js, Node.js, and Three.js. I'm a quick learner and collaborate closely with clients to create efficient, scalable, and user-friendly solutions that solve real-world problems. Let's work together to bring your ideas to life!`}
+        {`I'm a skilled Salesforce 6X Certified developer with 3.1+ Years of hands-on experience in designing, customizing and implementing salesforce solution. Proficient ynchronous & Asynchronous Apex, LWC, Aura, Visual Force, Custom objects / fields, Page layouts, Custom Tabs / Application, Custom Setting, Lightning App Builder, Flows, Metadata Api, Rest / Soap APIs, JavaScript and expertise in frameworks like React, Next js, Node.js, and Three.js. I'm a quick learner and collaborate closely with clients to create efficient, scalable, and user-friendly solutions that solve real-world problems. Let's work together to bring your ideas to life!`}
       </motion.p>
       {/* Here showing project cards */}
       <div className="mt-20 flex flex-wrap gap-10">
